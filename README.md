@@ -20,7 +20,7 @@
 ## 🎯 Interesses
 
 - 🧠 Desenvolvimento com Python  
-- 🎮 Criação de jogos 2D  
+- 🎮 Criação de jogos 
 - ⚙️ Automação de tarefas e processos  
 
 ---
