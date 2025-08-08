@@ -37,11 +37,11 @@
 ## 🚀 Em breve...
 
 📌 Projetos com automações em Python  
-🎮 Pequenos jogos 2D com bibliotecas como `pygame`  
+🎮 Pequenos jogos com bibliotecas como `pygame`  
 🧰 Scripts úteis para o dia a dia
 
 ---
 
 ## 📫 Entre em contato
 
-📧 Email: Juniorcondee972gmail.com
+📧 Email: Juniorcondee97@gmail.com
